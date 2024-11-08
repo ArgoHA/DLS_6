@@ -8,3 +8,5 @@ python -m src.etl.split        # Creates train, validation, and test CSVs with i
 python -m src.dl.train         # Runs the training pipeline
 python -m src.dl.infer         # Runs inference and creates csv
 ```
+
+![screenshot](Screenshot.png)
